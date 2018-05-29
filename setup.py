@@ -21,7 +21,7 @@ setup(
     version='0.9.3',
     author='Sumit Chachra',
     author_email='chachra@tivix.com',
-    url='http://github.com/Tivix/django-rest-auth',
+    url='http://github.com/EngineerJeYun/django-rest-auth',
     description='Create a set of REST API endpoints for Authentication and Registration',
     packages=find_packages(),
     long_description=long_description,
